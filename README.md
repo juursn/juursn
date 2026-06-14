@@ -1,16 +1,62 @@
-## Hi there 👋
+<div>
 
-<!--
-**juursn/juursn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<h1>
+  <img src="https://cdn-icons-png.flaticon.com/512/616/616490.png" width="28" />
+  Ana Júlia Ramos
+</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Front-End Developer in progress</h3>
+
+<p>
+  Estudante de Técnico em Informática, construindo uma base sólida em
+  desenvolvimento web e buscando evoluir através de projetos práticos.
+</p>
+
+<p>
+  🎓 Técnico em Informática &nbsp;|&nbsp; 💻 Front-End &nbsp;|&nbsp; 🚀 Em constante aprendizado
+</p>
+
+</div>
+
+</div>
+
+---
+
+<div>
+
+### Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,figma,git,github" />
+
+### Estudando
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite" />
+
+</div>
+
+---
+
+<div>
+
+<img height="155em" src="https://github-readme-stats.vercel.app/api?username=juursn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juursn&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juursn">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
+  </a>
+
+  <a href="mailto:anajuliaramos3651@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=34D399" />
+  </a>
+
+  <a href="https://github.com/juursn">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" />
+  </a>
+</div>
