@@ -48,15 +48,15 @@
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juursn">
+  <a href="https://www.linkedin.com/in/juursn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" />
   </a>
 
-  <a href="mailto:anajuliaramos3651@gmail.com">
+  <a href="mailto:anajuliaramos3651@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=34D399" />
   </a>
 
-  <a href="https://github.com/juursn">
+  <a href="https://github.com/juursn" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC" />
   </a>
 </div>
